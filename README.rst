@@ -1,10 +1,9 @@
 mdsf2018-prod
 =============
-External hyperlinks, like Python_.
-.. _Python: http://www.python.org/
 
 This is a demonstration Code refactoring to enable models to go to production.
-It is based on the winner solution of the Meilleur data scientist de France competition.
+It is based on the `winner<https://github.com/NikitaLukashev/MDF-2018>` solution of the [Meilleur data scientist de France](https://www.meilleurdatascientistdefrance.com/) competition.
+
 
 Setup with conda
 ----------------
@@ -39,8 +38,4 @@ Jupyter notebook/Jupyter lab:
 Configuration
 -------------
 
-If you want to submit a solution, you will have to sign up and get your token from the meilleur data scientist de France competition website.
-
-.. winner: https://github.com/NikitaLukashev/MDF-2018
-.. Meilleur data scientist de France: https://www.meilleurdatascientistdefrance.com/
-.. meilleur data scientist de France competition: https://qscore.meilleurdatascientistdefrance.com/competitions/32153fb0-4a40-4579-bb7c-c61cdd8ee9a9/info
+If you want to submit a solution, you will have to sign up and get your token from the [meilleur data scientist de France competition](https://qscore.meilleurdatascientistdefrance.com/competitions/32153fb0-4a40-4579-bb7c-c61cdd8ee9a9/info) website.
