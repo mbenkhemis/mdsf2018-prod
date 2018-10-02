@@ -2,7 +2,7 @@ mdsf2018-prod
 =============
 
 This is a demonstration Code refactoring to enable models to go to production.
-It is based on the `winner<https://github.com/NikitaLukashev/MDF-2018>` solution of the [Meilleur data scientist de France](https://www.meilleurdatascientistdefrance.com/) competition.
+It is based on the `winner<https://github.com/NikitaLukashev/MDF-2018>`_ solution of the [Meilleur data scientist de France](https://www.meilleurdatascientistdefrance.com/) competition.
 
 
 Setup with conda
