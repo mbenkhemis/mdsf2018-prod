@@ -552,7 +552,7 @@ tune_params = {
     'one_drop': 1,  # [0,1],
     'skip_drop': .33,  # np.linspace(0,1,11),
 }
-xgb_params.update(tune_params)
+xgb_params.update(best_params)
 
 
 # # train, predict and make submission
@@ -561,7 +561,9 @@ xgb_params.update(tune_params)
 
 
 xgb_params.update({'learning_rate': 0.01})
+import json
 
+json.dump(xgb_params,open('best_params.json','wb'))
 
 # In[16]:
 
